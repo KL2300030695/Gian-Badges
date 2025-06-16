@@ -1,1 +1,1 @@
-Letter B pixel 0,3 commit 9
+Letter B pixel 1,0 commit 0
